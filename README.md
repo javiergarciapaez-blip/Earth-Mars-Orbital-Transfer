@@ -13,9 +13,11 @@ The spacecraft trajectory is integrated with a 4th-order Runge-Kutta (RK4) metho
 
 ## Sample Results
 
-![Mars Transfer Animation](figures/mars_mission_phi_0.790.gif)
-![Launch Window Sensitivity](figures/initial_phase_sweep_inset.png)
-![Energy vs Time of Flight](figures/energy_cost_analysis.png)
+![Mars Transfer Animation](mars_mission_phi_0.790.gif)
+
+![Launch Window Sensitivity](initial_phase_sweep_inset.png)
+
+![Energy vs Time of Flight](energy_cost_analysis.png)
 
 ## Requirements
 
